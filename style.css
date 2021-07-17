@@ -1,0 +1,32 @@
+h1{
+	font-size: 40px;
+	font-weight: bold;
+}
+body{
+	background-image: linear-gradient(135deg, rgba(132,102,242,1),rgba(68,2,115,0.5));
+}
+#table{
+	width: 70%;
+	z-index: 1;
+	background-color: linear-gradient(135deg, rgba(132,102,242,1),rgba(68,2,115,0.5));
+	font-size: 30px;
+}
+table, th, td{
+	border:1px solid black;
+}
+table{
+	width: 100%;
+}
+th, td{
+	text-align: center;
+}
+button{
+	font-size: 30px;
+	text-align: center;
+	border:1px solid black;
+}
+.tab{
+	width: 80%;
+	font-size: 20px;
+	display: none;
+}
